@@ -1,2 +1,2 @@
-# NLP-with-disaster-tweets
+# NLP with Disaster tweets
 Building a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t
